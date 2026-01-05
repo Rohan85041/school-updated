@@ -22,7 +22,7 @@ const styles = {
   },
 
   navbarContent: {
-    maxWidth: '80rem',
+    maxWidth: '100rem',
     margin: '0 auto',
     padding: '1rem',
     display: 'flex',
@@ -38,7 +38,7 @@ const styles = {
   },
 
   logo: {
-    width: '4rem',
+    width: '5rem',
     height: '3.5rem',
     backgroundColor: 'white',
     borderRadius: '50%',
