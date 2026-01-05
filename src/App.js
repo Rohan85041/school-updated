@@ -12,6 +12,10 @@ import {
 const styles = {
   // Global
   appContainer: {
+    width: '100%',
+    minHeight: '100cvh',
+    backgroundColor: 'white',
+    fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif',
     width: "100%",
     minHeight: "100vh",
     backgroundColor: "white",
@@ -21,6 +25,12 @@ const styles = {
 
   // Navigation
   navbar: {
+    position: 'fixed',
+    top: 10px,
+    width: '100%',
+    background: 'linear-gradient(to right, #1e3a8a, #581c87)',
+    color: 'white',
+    boxShadow: '0 10px 30px rgba(0, 0, 0, 0.2)',
     position: "fixed",
     top: 0,
     width: "100%",
