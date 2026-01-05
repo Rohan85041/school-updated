@@ -16,7 +16,7 @@ const styles = {
     top: 0,
     width: '100%',
     background: 'linear-gradient(to right, #1e3a8a, #581c87)',
-    color: 'white',
+    color: 'navy blue',
     boxShadow: '0 10px 30px rgba(0, 0, 0, 0.2)',
     zIndex: 50,
   },
@@ -24,7 +24,7 @@ const styles = {
   navbarContent: {
     maxWidth: '80rem',
     margin: '0 auto',
-    padding: '1rem',
+    padding: '4rem',
     display: 'flex',
     justifyContent: 'space-between',
     alignItems: 'center',
