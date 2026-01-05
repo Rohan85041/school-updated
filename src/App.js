@@ -33,12 +33,12 @@ const styles = {
   navbarBrand: {
     display: 'flex',
     alignItems: 'center',
-    gap: '0.75rem',
+    gap: '0.7888rem',
     cursor:'pointer'
   },
 
   logo: {
-    width: '3.5rem',
+    width: '4rem',
     height: '3.5rem',
     backgroundColor: 'white',
     borderRadius: '50%',
