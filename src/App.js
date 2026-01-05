@@ -47,6 +47,16 @@ const styles = {
   },
 
   logo: {
+    width: '4rem',
+    height: '3.5rem',
+    backgroundColor: 'white',
+    borderRadius: '50%',
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    fontWeight: 'bold',
+    fontSize: '1.6rem',
+    color: '#fbbf24',
     width: "4rem",
     height: "3.5rem",
     backgroundColor: "white",
@@ -65,6 +75,17 @@ const styles = {
     color: "#fbbf24",
   },
 
+ mobileMenuBtn: {
+  
+
+  border: 'none',
+  color: 'green',
+  cursor: 'pointer',
+  display: 'none',
+  padding: '0.5rem',
+  fontFamily: 'Inter, sans-serif',
+  transition: 'background-color 0.3s ease, color 0.3s ease',
+},
   mobileMenuBtn: {
     border: "none",
     color: "white",
