@@ -60,7 +60,7 @@ const styles = {
   
 
   border: 'none',
-  color: 'white',
+  color: 'pink',
   cursor: 'pointer',
   display: 'none',
   padding: '0.5rem',
@@ -69,7 +69,7 @@ const styles = {
 },
 
 mobileMenuBtnHover: {
-  backgroundColor: '#c54c14ff',
+  backgroundColor: 'purlpe',
   
 },
 
