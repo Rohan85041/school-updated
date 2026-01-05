@@ -12,6 +12,9 @@ import {
 const styles = {
   // Global
   appContainer: {
+    width: '200%',
+    minHeight: '100vh',
+    backgroundColor: 'black',
     width: '100%',
     minHeight: '100cvh',
     backgroundColor: 'white',
