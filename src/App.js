@@ -4,9 +4,9 @@ import { Menu, X, ChevronDown, ChevronUp, Phone, Mail, MapPin } from 'lucide-rea
 const styles = {
   // Global
   appContainer: {
-    width: '100%',
+    width: '200%',
     minHeight: '100vh',
-    backgroundColor: 'white',
+    backgroundColor: 'black',
     fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif',
   },
 
