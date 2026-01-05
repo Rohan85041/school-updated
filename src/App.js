@@ -29,7 +29,7 @@ const styles = {
     top: 10px,
     width: '100%',
     background: 'linear-gradient(to right, #1e3a8a, #581c87)',
-    color: 'white',
+    color: 'navy blue',
     boxShadow: '0 10px 30px rgba(0, 0, 0, 0.2)',
     position: "fixed",
     top: 0,
@@ -41,6 +41,12 @@ const styles = {
   },
 
   navbarContent: {
+    maxWidth: '80rem',
+    margin: '0 auto',
+    padding: '4rem',
+    display: 'flex',
+    justifyContent: 'space-between',
+    alignItems: 'center',
     maxWidth: "80rem",
     margin: "0 auto",
     padding: "2rem",
