@@ -5,7 +5,7 @@ const styles = {
   // Global
   appContainer: {
     width: '100%',
-    minHeight: '100vh',
+    minHeight: '100cvh',
     backgroundColor: 'white',
     fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif',
   },
@@ -13,7 +13,7 @@ const styles = {
   // Navigation
   navbar: {
     position: 'fixed',
-    top: 0,
+    top: 10px,
     width: '100%',
     background: 'linear-gradient(to right, #1e3a8a, #581c87)',
     color: 'white',
