@@ -509,6 +509,9 @@ const styles = {
   },
 
   tagline: {
+    fontSize: '0.875rem',
+    color: '#d1d5db',
+    marginTop: '2rem',
     fontSize: "0.875rem",
     color: "#d1d5db",
     marginTop: "1rem",
@@ -547,6 +550,10 @@ const styles = {
   },
 
   founderTitle: {
+    fontSize: '3rem',
+    color: '#fbbf24',
+    fontWeight: '600',
+    paddingTop:'0.01px'
     fontSize: "2rem",
     color: "#fbbf24",
     fontWeight: "600",
