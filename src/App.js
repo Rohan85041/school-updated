@@ -464,7 +464,7 @@ mobileMenuBtnHover: {
   tagline: {
     fontSize: '0.875rem',
     color: '#d1d5db',
-    marginTop: '1rem',
+    marginTop: '2rem',
   },
 
   founderSection: {
@@ -500,7 +500,7 @@ mobileMenuBtnHover: {
   },
 
   founderTitle: {
-    fontSize: '2rem',
+    fontSize: '3rem',
     color: '#fbbf24',
     fontWeight: '600',
     paddingTop:'0.01px'
