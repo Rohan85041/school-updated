@@ -46,8 +46,8 @@ const styles = {
     alignItems: 'center',
     justifyContent: 'center',
     fontWeight: 'bold',
-    fontSize: '1.5rem',
-    color: '#1e3a8a',
+    fontSize: '1.6rem',
+    color: '#fbbf24',
   },
 
   logoText: {
@@ -60,7 +60,7 @@ const styles = {
   
 
   border: 'none',
-  color: 'white',
+  color: 'green',
   cursor: 'pointer',
   display: 'none',
   padding: '0.5rem',
